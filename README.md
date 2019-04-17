@@ -6,6 +6,8 @@ Tips and Tricks for SDG students.
 
 - How to Ask Questions
 
+- Advice (during and after the program)
+
 - Resume
 See [Suncoast Student Handbook](https://github.com/suncoast-devs/handbook/blob/master/career/cover-letters.md)
 
