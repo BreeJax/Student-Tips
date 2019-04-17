@@ -2,8 +2,9 @@
 
 Tips and Tricks for SDG students.
 
-
 ## TODO
+
+- How to Ask Questions
 
 - Resume
 See [Suncoast Student Handbook](https://github.com/suncoast-devs/handbook/blob/master/career/cover-letters.md)
