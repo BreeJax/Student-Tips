@@ -1,0 +1,8 @@
+Asking good questions can be hard. During your time at Suncoast Developers Guild, you are going to find yourself in a lot of stressful situations- not only because of your time in class, but your time out of class. This stress can make it hard to think straight- but together, we are going to work to help you be prepared on what is going to be the hardest part of your time here: asking good questions.
+
+Some questions will be very straightforward, and easy to ask. For instance “What is x?” or “How does x work?” .
+
+However, that will not be all of your questions here. Eventually, you are going to need to ask for help, or you’re going to need to ask for clarification. The reasons are varied, but the how is pretty simple (once you give yourself time to breath).
+
+Try to ask the question to google first. 	I know this seems illogical- why would you ask google? The reason is simple- in our line of work, you will eventually have to find answers to your own questions. Skills in all things google is part of the job here, and `googling` is a major skill that you will need to have. 	Once you do this, keep a note open of all of the different phrases that you have googled. For instance, in creating this document for you and to make sure I had access to thoughts on the art of asking questions outside of SDG, I have googled: —how to ask questions —how to ask questions in class as a student —medium how to ask better questions     DO NOT delete your list of questions until you have finished the task.  You may find that the answers your find are not the answers to the question that you REALLY needed answers
+ 
